@@ -1,0 +1,6 @@
+{
+  "name": "NetSentinel",
+  "description": "Anti-extortion and network forensic analysis app featuring Kali NetHunter integration, real-time packet inspection, malicious signature detection, extortion communication flagging, and amplified evidence recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
